@@ -276,3 +276,10 @@ MyProject/
 1. Документация Django. — URL: https://docs.djangoproject.com/
 2. PyPI — The Python Package Index. — URL: https://pypi.org/
 3. Методические указания к лабораторной работе № 1 «Создание виртуального окружения. Контроллеры и маршруты».
+
+
+---
+
+Ссылка на github: https://github.com/nikitaavdeev07-arch/LR1-Django
+
+---
